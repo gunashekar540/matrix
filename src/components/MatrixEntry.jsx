@@ -10,7 +10,7 @@ const MatrixEntry = () => {
   };
 
   const exitMatrix = () => {
-    window.location.href = 'https://www.example.com'; // Change this to the desired exit URL
+    window.close()
   };
 
   return (
