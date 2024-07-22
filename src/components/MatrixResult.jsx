@@ -14,7 +14,7 @@ const MatrixResult = () => {
       <div className="relative z-10 flex flex-col items-center justify-center h-full bg-black bg-opacity-50 space-y-4">
         <a
           className="text-red-600 text-6xl"
-          href="https://profound-stroopwafel-68a809.netlify.app/"
+          href="https://red-netflix.netlify.app/"
           aria-label="Red Pill"
         >
           <RiNetflixFill />
