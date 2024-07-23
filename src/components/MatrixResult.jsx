@@ -21,7 +21,7 @@ const MatrixResult = () => {
         </a>
         <a
           className="text-blue-600 text-6xl"
-          href="https://disneyplus-clone-cb4e4.web.app"
+          href="https://blue-disney.netlify.app"
           aria-label="Blue Pill"
         >
           <TbBrandDisney/>
